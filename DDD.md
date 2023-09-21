@@ -22,4 +22,4 @@ Contar historias ainda funciona e na era do software. Nossa experiencia, contar 
 - Estruturar o Software
 - Desnehar processos de negocio, suportados por software, que sejam viaveis.
 
-(OFER-SCHWNTER, 2021, P. 31)
+(HOFER-SCHWNTER, 2021, P. 31)
