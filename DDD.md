@@ -50,3 +50,8 @@ De forma de criarmos uma **narrativa** de dominio, que seja **coesa e legivel**,
 
 #### CORES
 - Cores sao utilizadas para trazer enfase a uma serie de Atividades.
+
+
+#### Exemplo:
+
+<img src="./imgs/01%20-%20Domain%20Storytelling_2023-09-21.png">
