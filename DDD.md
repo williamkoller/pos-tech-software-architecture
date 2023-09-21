@@ -28,4 +28,25 @@ Contar historias ainda funciona e na era do software. Nossa experiencia, contar 
 
 De forma de criarmos uma **narrativa** de dominio, que seja **coesa e legivel**, precisamos nao apenas dos simbolos de objetos e conceitos, mastambem dos simbolos de **conexao/relacao** entre eles, e textos que possam nos **explicar** o que eh necessario sobre essa relacao, ou uma anotacao no objeto. Um **Pictograma** eh um simbolo que representa algo, seja um conceito ou objeto.
 
-<span style="color: pink;">\_Linguagem Pictografica</span>
+### Linguagem Pictografica
+
+#### ATORES
+- Um ator ou atores, pode ser uma pessoa, um grupo de pessoas, um objeto, ou ate mesmo um sistema.
+
+#### OBJETO DE TRABALHO
+- Objetos de trabalho, sao utilizados pelos atores, esses podem ser documentos, objetos e interacoes fisicas e digitais.
+
+#### ATIVIDADES
+- As atividades sao as acoes dos Atores com os Objetos de Trabalho.
+
+#### NUMEROS SEQUENCIAS
+- Indicam o fluxo da historia.
+
+#### ANOTACOES
+- Anotacoes contem informacoes que sejam importantes, tais como limitacoes naquela atividade, acoes que devem ser tomadas, gatilhos para outros processos ou eventos, etc.
+
+#### GRUPOS 
+- Grupos sao representacoes de partes de uma historia. Por exemplo, acoes que sao repetidas constantemente do processo, etc.
+
+#### CORES
+- Cores sao utilizadas para trazer enfase a uma serie de Atividades.
