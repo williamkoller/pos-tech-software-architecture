@@ -23,3 +23,9 @@ Contar historias ainda funciona e na era do software. Nossa experiencia, contar 
 - Desnehar processos de negocio, suportados por software, que sejam viaveis.
 
 (HOFER-SCHWNTER, 2021, P. 31)
+
+## Linguagem Pictografica
+
+De forma de criarmos uma **narrativa** de dominio, que seja **coesa e legivel**, precisamos nao apenas dos simbolos de objetos e conceitos, mastambem dos simbolos de **conexao/relacao** entre eles, e textos que possam nos **explicar** o que eh necessario sobre essa relacao, ou uma anotacao no objeto. Um **Pictograma** eh um simbolo que representa algo, seja um conceito ou objeto.
+
+<span style="color: pink;">\_Linguagem Pictografica</span>
